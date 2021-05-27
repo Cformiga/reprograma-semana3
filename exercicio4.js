@@ -4,7 +4,7 @@
  //   c) quando chegar no número 50 pule a instrução
 
 
-
+//
 for (let numero = 1; numero<=100; numero++) {
     console.log(numero)
 }
